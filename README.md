@@ -22,8 +22,10 @@ No specific maths concept were used
 gcc sudokuGridValidator.c -o sudokuGridValidator
 
 # How to run
-gcc sudokuGridValidator.c -o sudokuGridValidator<br>
+gcc sudokuGridValidator.c -o sudokuGridValidator
+<br>
 ./sudokuGridValidator
+<br>
 <img width="620" height="87" alt="image" src="https://github.com/user-attachments/assets/55b9ae10-409d-41b3-8966-f9b35db6ac2d" />
 
 
